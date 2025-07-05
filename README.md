@@ -1,9 +1,11 @@
 # MVP I (Análise de Dados e Boas Práticas)
-# Base de Dados de Câncer de Mama e Análise de Modelo K-NN
 
 **Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio**
+
 **Especialização em Ciência de Dados & Analytics**  
+
 **Autor:** Madson Aragão
+
 **Sementre**: 25/1
 
 ---
@@ -13,9 +15,9 @@
 ---
 
 
-### [Acesse o notebook no Google Colab](https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing)
+#### 🟡 [Acesse o notebook no Google Colab](https://colab.research.google.com/drive/1--VBTH2w0f66WHhe33Wdgm40o6nHTX__?usp=sharing)
 
-### [Acesse o notebook no GitHub](https://github.com/madsondeluna/mvp_pucrio_data_analysis/blob/main/mvp_pucrio_data_analysis_final.ipynb)
+#### ⚪️ [Acesse o notebook no GitHub](https://github.com/madsondeluna/mvp_pucrio_data_analysis/blob/main/mvp_pucrio_data_analysis_final.ipynb)
 
 
 ---
@@ -220,7 +222,7 @@ O Wisconsin Breast Cancer Dataset contém **569 amostras**, cada uma com **30 va
 
 - Alta sensibilidade (92%) para tumores malignos reduz falsos-negativos.  
 - Especificidade elevada (98%) minimiza falsos-positivos.  
-- MCC elevado demonstra predições confiáveis em conjunto levemente desbalanceado.  
+- MCC elevado demonstra predições confiáveis em conjunto desbalanceado, sugerindo a exclusão de overfitting.  
 - AUC próxima a 1 reflete poder discriminativo excepcional.  
 - Pipeline de pré-processamento (seleção de variáveis e normalização) foi decisivo para estabilidade e performance.
 
