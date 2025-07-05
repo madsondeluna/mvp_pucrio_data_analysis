@@ -185,6 +185,12 @@ O Wisconsin Breast Cancer Dataset contém **569 amostras**, cada uma com **30 va
 
 ---
 
+## OBS: Que restrições ou condições foram impostas para selecionar os dados?
+
+Embora tenha utilizado o dataset completo, foram definidas condições para a seleção de features que alimentaram meu modelo final. A principal condição foi a redução de multicollinearidade. Com base nas análises dos mapas de calor, logo foi dedicido por remover um conjunto de características (`droplist_final`) que eram altamente correlacionadas, com o objetivo de evitar redundância, simplificar o modelo e torná-lo mais estável.
+
+---
+
 ## VII. Modelagem com K-NN
 
 | Etapa          | Detalhe                                          |
