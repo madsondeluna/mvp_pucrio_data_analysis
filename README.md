@@ -1,4 +1,5 @@
-# MVP I (Análise de Dados e Boas Práticas) - Base de Dados de Câncer de Mama e Análise de Modelo K-NN
+# MVP I (Análise de Dados e Boas Práticas)
+# Base de Dados de Câncer de Mama e Análise de Modelo K-NN
 
 **MVP — Data Science & Analytics (PUC-Rio)**  
 **Autor:** Madson Aragão
