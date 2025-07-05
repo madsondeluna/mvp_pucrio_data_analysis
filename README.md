@@ -1,8 +1,10 @@
 # MVP I (Análise de Dados e Boas Práticas)
 # Base de Dados de Câncer de Mama e Análise de Modelo K-NN
 
-**MVP — Data Science & Analytics (PUC-Rio)**  
+**Pontifícia Universidade Católica do Rio de Janeiro - PUC-Rio**
+**Especialização em Ciência de Dados & Analytics**  
 **Autor:** Madson Aragão
+**Sementre**: 25/1
 
 ---
 
