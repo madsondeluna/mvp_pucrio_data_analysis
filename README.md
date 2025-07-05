@@ -246,4 +246,4 @@ A aplicação criteriosa do K-NN, com foco em seleção de atributos relevantes 
 
 ## Licença
 
-Este projeto faz parte das atividades acadêmicas da disciplina de Análise de Dados e Boas Práticas, Data Science & Analytics – PUC-Rio, com fins educacionais e científicos.
+Este projeto faz parte das atividades acadêmicas da disciplina de Análise de Dados e Boas Práticas como parte da Especialização em Data Science & Analytics da PUC-Rio, com fins educacionais e científicos.
