@@ -24,13 +24,11 @@
 | :--- | :---: |
 | Execução | 0.6 |
 | Documentação | 2.0 |
-| Código limpo | 0.8 |
-| Análise de resultados | 1.8 |
+| Código limpo | 0.6 |
+| Análise de resultados | 1.6 |
 | Checklist | 2.0 |
 | Capricho e qualidade | 1.6 |
-| **Total** | **8.8*** |
-
-*\*Observação: A soma da nota detalhada é 8.8, mas a nota final registrada pelo professor foi 8.4.*
+| **Total** | **8.4** |
 
 ### Comentários do Professor
 
